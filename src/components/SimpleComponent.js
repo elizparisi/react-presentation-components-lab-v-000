@@ -12,7 +12,7 @@ export default class SimpleComponent extends Component {
   }
   
   handleClick = () => {
-    this.setState = ({mood: 'sad'}) 
+    let moodChange = this.setState
   }
   
   render() {
