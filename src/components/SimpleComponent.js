@@ -7,7 +7,7 @@ export default class SimpleComponent extends Component {
     super(props);
     
     this.state = {
-      mood: 'happy'
+      mood: "happy"
     };
   }
   
